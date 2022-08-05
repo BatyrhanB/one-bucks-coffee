@@ -1,0 +1,1 @@
+{"buildTargets":["all","clean","deploy","down","easter","generate_dot_env","install","run","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
