@@ -15,8 +15,7 @@ ifeq ($(MODEL_NAME),)
 MODEL_NAME := model.pkl
 endif
 
-# Target section and Global definitions
-# -----------------------------------------------------------------------------
+----------------------------------------------------------------------------
 .PHONY: all clean test install run deploy down easter
 
 all: clean test install run deploy down easter
