@@ -1,3 +1,4 @@
+The template can be used by all novice GeekTech students
 # One Bucks Coffee
 
 A project for a coffee company One Bucks Coffee
